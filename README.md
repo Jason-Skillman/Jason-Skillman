@@ -1,4 +1,5 @@
-# Hi, I am Jason Skillman - @Jason-Skillman
+### Hi there, I am Jason Skillman - @Jason-Skillman
+## Game Programmer, Designer, Mobile Developer
 
 Welcome to my profile page 👏
 
@@ -8,10 +9,13 @@ Welcome to my profile page 👏
 - 🤔 I’m looking for help with web development, mostly CSS.
 - 💬 Ask me about my favorite game and why.
 - 📫 How to reach me: jason_skillman@outlook.com
-- ⚡ Fun fact: I love talking about new and emerging technologies that will change the gaming industry.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love learning about new emerging technologies.
 
 #### Portfolio
 - 🌐 https://jasonskillman.wixsite.com/website
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jason-Skillman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 [MyWebsite](https://jasonskillman.wixsite.com/website)
