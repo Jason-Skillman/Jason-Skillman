@@ -10,7 +10,7 @@ Welcome to my profile page 👏
 - 💬 Ask me about my favorite game and why.
 - 📫 How to reach me: jason_skillman@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning about new emerging technologies.
+- ⚡ Fun fact: I love learning about new emerging technologies. I also love space games 🚀
 
 ### Social Media / Contact Me
 [<img aligh="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][MyWebsite]
