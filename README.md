@@ -16,6 +16,7 @@ Welcome to my profile page 👏
 [<img aligh="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][MyWebsite]
 [<img aligh="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][LinkedIn]
 [<img aligh="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/itch-dot-io.svg"/>][Itch.io]
+[<img aligh="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gitlab.svg"/>][GitLab]
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Jason-Skillman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -24,6 +25,7 @@ Welcome to my profile page 👏
 [MyWebsite]: https://jasonskillman.wixsite.com/website
 [LinkedIn]: https://www.linkedin.com/in/jason-skillman/
 [Itch.io]: https://jasonskillman.itch.io/
+[GitLab]: https://gitlab.com/JasonSkillman
 
 
 
