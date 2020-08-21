@@ -25,7 +25,7 @@ Welcome to my profile page 👏
 [MyWebsite]: https://jasonskillman.wixsite.com/website
 [LinkedIn]: https://www.linkedin.com/in/jason-skillman/
 [Itch.io]: https://jasonskillman.itch.io/
-[GitLab]: https://gitlab.com/JasonSkillman
+[GitLab]: https://gitlab.com/Jason-Skillman
 
 
 
