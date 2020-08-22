@@ -24,7 +24,7 @@ Welcome to my profile page 👏
 <!-- Definitions -->
 [MyWebsite]: https://jasonskillman.wixsite.com/website
 [LinkedIn]: https://www.linkedin.com/in/jason-skillman/
-[Itch.io]: https://jasonskillman.itch.io/
+[Itch.io]: https://jason_skillman.itch.io/
 [GitLab]: https://gitlab.com/Jason-Skillman
 
 
