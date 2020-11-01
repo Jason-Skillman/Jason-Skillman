@@ -18,15 +18,30 @@ Welcome to my profile page 👏
 [<img aligh="left" alt="Itch.io" width="26px" src="media/itch.io.png"/>][Itch.io]
 
 ### Favorite Launguages
-[<img aligh="left" alt="Java" width="30px" src="media/java.png"/>][MyWebsite]
-[<img aligh="left" alt="C#" width="30px" src="media/c_sharp.png"/>][MyWebsite]
-[<img aligh="left" alt="C++" width="30px" src="media/c_plus_plus.png"/>][MyWebsite]
-[<img aligh="left" alt="SQLite" width="30px" src="media/sqlite.png"/>][MyWebsite]
-[<img aligh="left" alt="HTML5" width="30px" src="media/html5.png"/>][MyWebsite]
-[<img aligh="left" alt="Javascript" width="30px" src="media/javascript.png" />][MyWebsite]
-[<img aligh="left" alt="Python" width="30px" src="media/python.png"/>][MyWebsite]
-[<img aligh="left" alt="Kotlin" width="30px" src="media/kotlin.png"/>][MyWebsite]
+[<img aligh="left" alt="Java" width="30px" src="media/launguages/java.png"/>][MyWebsite]
+[<img aligh="left" alt="C#" width="30px" src="media/launguages/c_sharp.png"/>][MyWebsite]
+[<img aligh="left" alt="C++" width="30px" src="media/launguages/c_plus_plus.png"/>][MyWebsite]
+[<img aligh="left" alt="SQLite" width="30px" src="media/launguages/sqlite.png"/>][MyWebsite]
+[<img aligh="left" alt="HTML5" width="30px" src="media/launguages/html5.png"/>][MyWebsite]
+[<img aligh="left" alt="Javascript" width="30px" src="media/launguages/javascript.png" />][MyWebsite]
+[<img aligh="left" alt="Python" width="30px" src="media/launguages/python.png"/>][MyWebsite]
+[<img aligh="left" alt="Kotlin" width="30px" src="media/launguages/kotlin.png"/>][MyWebsite]
 
+### Favorite Tools
+[<img aligh="left" alt="Unity" width="30px" src="media/tools/unity.png"/>][MyWebsite]
+[<img aligh="left" alt="Unreal" width="30px" src="media/tools/unreal.png"/>][MyWebsite]
+[<img aligh="left" alt="Visual Studio" width="30px" src="media/tools/visual_studio.png"/>][MyWebsite]
+[<img aligh="left" alt="Visual Studio Code" width="30px" src="media/tools/visual_studio_code.png"/>][MyWebsite]
+[<img aligh="left" alt="Jetbrains Rider" width="30px" src="media/tools/jetbrains_rider.png"/>][MyWebsite]
+[<img aligh="left" alt="Android Studio" width="30px" src="media/tools/android_studio.png"/>][MyWebsite]
+[<img aligh="left" alt="Git" width="30px" src="media/tools/git.png"/>][MyWebsite]
+[<img aligh="left" alt="GitHub" width="30px" src="media/tools/github.svg"/>][MyWebsite]
+[<img aligh="left" alt="Maya" width="30px" src="media/tools/maya.png"/>][MyWebsite]
+[<img aligh="left" alt="3dsmax" width="30px" src="media/tools/3dsmax.png"/>][MyWebsite]
+[<img aligh="left" alt="Blender" width="30px" src="media/tools/blender.png"/>][MyWebsite]
+[<img aligh="left" alt="Substance Painter" width="30px" src="media/tools/substance_painter.png"/>][MyWebsite]
+[<img aligh="left" alt="Photoshop" width="30px" src="media/tools/photoshop.png"/>][MyWebsite]
+[<img aligh="left" alt="Illustractor" width="30px" src="media/tools/illustrator.png"/>][MyWebsite]
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=Jason-Skillman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
