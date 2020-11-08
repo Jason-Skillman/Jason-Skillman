@@ -4,9 +4,9 @@
 Welcome to my profile page 👏
 
 - 🔭 I’m currently working on an escape room game.
-- 🌱 I’m currently learning about networking using Mirror for Unity.
+- 🌱 I’m currently learning about custom shaders and shader graph for Unity.
 - 👯 I’m looking to collaborate on any Unity open source project.
-- 🤔 I’m looking for help with advanced shaders with HLSL.
+- 🤔 I’m looking for help with advanced shaders with HLSL for Unity URP/HDRP.
 - 💬 Ask me about my favorite game and why. 🌌🚀
 - 📫 How to reach me: jason_skillman@outlook.com
 - 😄 Pronouns: He/Him
