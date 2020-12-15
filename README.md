@@ -3,14 +3,14 @@
 
 Welcome to my profile page 👏
 
-- 🔭 I’m currently working on an escape room game.
+- 🔭 I’m currently working on an escape room expirence game professionally.
 - 🌱 I’m currently learning about custom shaders and shader graph for Unity.
 - 👯 I’m looking to collaborate on any Unity open source project.
 - 🤔 I’m looking for help with advanced shaders with HLSL for Unity URP/HDRP.
 - 💬 Ask me about my favorite game and why. 🌌🚀
-- 📫 How to reach me: jason_skillman@outlook.com
+- 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I first started out as a mobile app developer.
+- ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project work flow.
 
 ### Social Media / Contact Me
 [<img aligh="left" alt="MyWebsite" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][MyWebsite]
