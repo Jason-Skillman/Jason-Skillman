@@ -6,7 +6,7 @@
 Welcome to my profile page 👏
 
 - 🔭 I’m currently working on an escape room expirence game professionally.
-- 🌱 I’m currently learning about custom shaders and graphic API's like OpenGL.
+- 🌱 I’m currently learning about custom shaders and graphic libraries like OpenGL.
 - 👯 I’m looking to collaborate on any Unity open source project.
 - 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.
 - 💬 Ask me about my favorite game and why. 🌌🚀
