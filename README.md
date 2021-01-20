@@ -15,32 +15,32 @@ Welcome to my profile page 👏
 - ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project work flow.
 
 ### Favorite Launguages
-<img alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
-<img alt="C#" title="C#" width="30px" src="assets/launguages/c_sharp.png"/>
-<img alt="C++" title="C++" width="30px" src="assets/launguages/c_plus_plus.png"/>
-<img alt="SQLite" title="SQLite" width="30px" src="assets/launguages/sqlite.png"/>
-<img alt="HTML5" title="HTML5" width="30px" src="assets/launguages/html5.png"/>
-<img alt="Javascript" title="Javascript" width="30px" src="assets/launguages/javascript.png" />
-<img alt="Python" title="Python" width="30px" src="assets/launguages/python.png"/>
-<img alt="Kotlin" title="Kotlin" width="30px" src="assets/launguages/kotlin.png"/>
-<br>
+<img align="left" style="margin:0rem .09rem" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
+<img align="left" style="margin:0rem .09rem" alt="C#" title="C#" width="30px" src="assets/launguages/c_sharp.png"/>
+<img align="left" style="margin:0rem .09rem" alt="C++" title="C++" width="30px" src="assets/launguages/c_plus_plus.png"/>
+<img align="left" style="margin:0rem .09rem" alt="SQLite" title="SQLite" width="30px" src="assets/launguages/sqlite.png"/>
+<img align="left" style="margin:0rem .09rem" alt="HTML5" title="HTML5" width="30px" src="assets/launguages/html5.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Javascript" title="Javascript" width="30px" src="assets/launguages/javascript.png" />
+<img align="left" style="margin:0rem .09rem" alt="Python" title="Python" width="30px" src="assets/launguages/python.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Kotlin" title="Kotlin" width="30px" src="assets/launguages/kotlin.png"/>
+<br><br>
 
 ### Favorite Tools
-<img alt="Unity" title="Unity" width="30px" src="assets/tools/unity.png"/>
-<img alt="Unreal" title="Unreal" width="30px" src="assets/tools/unreal.png"/>
-<img alt="Visual Studio" title="Visual Studio" width="30px" src="assets/tools/visual_studio.png"/>
-<img alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="assets/tools/visual_studio_code.png"/>
-<img alt="Jetbrains Rider" title="Jetbrains Rider" width="30px" src="assets/tools/jetbrains_rider.png"/>
-<img alt="Android Studio" title="Android Studio" width="30px" src="assets/tools/android_studio.png"/>
-<img alt="Git" title="Git" width="30px" src="assets/tools/git.png"/>
-<img alt="GitHub" title="GitHub" width="30px" src="assets/tools/github.svg"/>
-<img alt="Maya" title="Maya" width="30px" src="assets/tools/maya.png"/>
-<img alt="3dsmax" title="3dsmax" width="30px" src="assets/tools/3dsmax.png"/>
-<img alt="Blender" title="Blender" width="30px" src="assets/tools/blender.png"/>
-<img alt="Substance Painter" title="Substance Painter" width="30px" src="assets/tools/substance_painter.png"/>
-<img alt="Photoshop" title="Photoshop" width="30px" src="assets/tools/photoshop.png"/>
-<img alt="Illustractor" title="Illustractor" width="30px" src="assets/tools/illustrator.png"/>
-<br>
+<img align="left" style="margin:0rem .09rem" alt="Unity" title="Unity" width="30px" src="assets/tools/unity.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Unreal" title="Unreal" width="30px" src="assets/tools/unreal.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Visual Studio" title="Visual Studio" width="30px" src="assets/tools/visual_studio.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Visual Studio Code" title="Visual Studio Code" width="30px" src="assets/tools/visual_studio_code.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Jetbrains Rider" title="Jetbrains Rider" width="30px" src="assets/tools/jetbrains_rider.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Android Studio" title="Android Studio" width="30px" src="assets/tools/android_studio.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Git" title="Git" width="30px" src="assets/tools/git.png"/>
+<img align="left" style="margin:0rem .09rem" alt="GitHub" title="GitHub" width="30px" src="assets/tools/github.svg"/>
+<img align="left" style="margin:0rem .09rem" alt="Maya" title="Maya" width="30px" src="assets/tools/maya.png"/>
+<img align="left" style="margin:0rem .09rem" alt="3dsmax" title="3dsmax" width="30px" src="assets/tools/3dsmax.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Blender" title="Blender" width="30px" src="assets/tools/blender.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Substance Painter" title="Substance Painter" width="30px" src="assets/tools/substance_painter.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Photoshop" title="Photoshop" width="30px" src="assets/tools/photoshop.png"/>
+<img align="left" style="margin:0rem .09rem" alt="Illustractor" title="Illustractor" width="30px" src="assets/tools/illustrator.png"/>
+<br><br>
 
 ### Social Media / Contact Me
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=hack-the-box&logoColor=white&color=00b327)](https://jasonskillman.wixsite.com/website)
