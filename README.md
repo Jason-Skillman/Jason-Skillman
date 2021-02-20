@@ -73,6 +73,10 @@ I work on custom universal tools for Unity. Check them out below.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Singleton&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Jason-Skillman/Dialogue-Manager">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Dialogue-Manager&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/Jason-Skillman/Audio-Manager">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Audio-Manager&theme=tokyonight" />
 </a>
@@ -80,6 +84,11 @@ I work on custom universal tools for Unity. Check them out below.
 <a href="https://github.com/Jason-Skillman/Unity-Object-Pool">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Object-Pool&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/Jason-Skillman/FPS-Counter">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
+</a>
+
 <br>
 
 ## 📊 Stats
