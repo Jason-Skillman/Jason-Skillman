@@ -70,7 +70,7 @@ I work on custom universal tools for Unity. Check them out below.
 </a>
 
 <a href="https://github.com/Jason-Skillman/Unity-Singleton">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Singleton&theme=tokyonight" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Singleton-Behavior&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jason-Skillman/Dialogue-Manager">
