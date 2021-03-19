@@ -1,7 +1,7 @@
 [![jason_skillman_banner](assets/controller_banner_wide.png)](https://jasonskillman.wixsite.com/website)
 
 ### Hi there, I am Jason Skillman - @Jason-Skillman
-## 🎮 Game Programmer, Designer, Mobile Developer
+## 🎮 Game Programmer, Designer, Mobile Developer, and Mentor
 
 Welcome to my profile page 👏
 
@@ -11,8 +11,7 @@ Welcome to my profile page 👏
 - 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.
 - 💬 Ask me about my favorite game and why. 🌌🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project work flow.
+- ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project workflow.
 
 ### Favorite Launguages
 <img align="left" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
@@ -87,6 +86,10 @@ I work on custom universal tools for Unity. Check them out below.
 
 <a href="https://github.com/Jason-Skillman/FPS-Counter">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Jason-Skillman/Scene-Switcher">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Switcher&theme=tokyonight" />
 </a>
 
 <br>
