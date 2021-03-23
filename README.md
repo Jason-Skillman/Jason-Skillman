@@ -8,10 +8,11 @@ Welcome to my profile page 👏
 - 🔭 I’m currently working on an escape room expirence game professionally.
 - 🌱 I’m currently learning about OpenGL with C++.
 - 👯 I’m looking to collaborate on any Unity open source project.
-<!-- 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.-->
 - 💬 Ask me about my favorite game and why. 🌌🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
 - ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project workflow.
+
+<!-- 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.-->
 
 ### Favorite Launguages
 <img align="left" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
