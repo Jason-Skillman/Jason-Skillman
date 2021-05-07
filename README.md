@@ -5,7 +5,7 @@
 
 Welcome to my profile page 👏
 
-- 🔭 I’m currently working on a collaborative eco friendly game https://play.eco/.
+- 🔭 I’m currently working on a collaborative eco friendly game https://play.eco.
 - 🌱 I’m currently learning about OpenGL with C++.
 - 👯 I’m looking to collaborate on any Unity open source project.
 - 💬 Ask me about my favorite game and why. 🌌🚀
