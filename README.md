@@ -8,7 +8,7 @@ Welcome to my profile page 👏
 - 🔭 I’m currently working on a collaborative eco friendly game https://play.eco.
 - 🌱 I’m currently learning about OpenGL with C++.
 - 👯 I’m looking to collaborate on any Unity open source project.
-- 💬 Ask me about my favorite game and why. 🌌🚀
+- 💬 Ask me about my favorite game and why. 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
 - ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project workflow.
 
@@ -81,16 +81,12 @@ I work on custom universal tools for Unity. Check them out below.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Audio-Manager&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/Unity-Object-Pool">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Object-Pool&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Scene-Switcher">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Switcher&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jason-Skillman/FPS-Counter">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Scene-Switcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Switcher&theme=tokyonight" />
 </a>
 
 <br>
