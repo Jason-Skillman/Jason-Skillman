@@ -89,6 +89,10 @@ I work on custom universal tools for Unity. Check them out below.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Jason-Skillman/Comment-Component">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Comment-Component&theme=tokyonight" />
+</a>
+
 <br>
 
 ## 📊 Stats
