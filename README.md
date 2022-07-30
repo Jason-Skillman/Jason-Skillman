@@ -10,7 +10,7 @@ Welcome to my profile page 👏
 - 👯 I’m looking to collaborate on any Unity open source project.
 - 💬 Ask me about my favorite game and why. 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
-- ⚡ Fun fact: The UDK was my first game engine and taught me a lot about assets and project workflow.
+- ⚡ Fun fact: The UDK was my first game engine and I have been programming since 2014.
 
 <!-- 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.-->
 
