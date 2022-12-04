@@ -1,18 +1,16 @@
 [![jason_skillman_banner](assets/controller_banner_wide.png)](https://jasonskillman.wixsite.com/website)
 
 ### Hi there, I am Jason Skillman - @Jason-Skillman
-## 🎮 Game Programmer, Designer, Mobile Developer, and Mentor
+## 🎮 Game Programmer | VR Developer | Technical Designer
 
 Welcome to my profile page 👏
 
-- 🔭 I’m currently working on a collaborative eco friendly game https://play.eco.
+- 🔭 I’m currently working on a full body VR experience game.
 - 🌱 I’m currently learning about OpenGL with C++.
 - 👯 I’m looking to collaborate on any Unity open source project.
 - 💬 Ask me about my favorite game and why. 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
 - ⚡ Fun fact: The UDK was my first game engine and I have been programming since 2014.
-
-<!-- 🤔 I’m looking for help with advanced shading techniques with HLSL for Unity URP/HDRP.-->
 
 ### Favorite Launguages
 <img align="left" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
@@ -85,14 +83,16 @@ I work on custom universal tools for Unity. Check them out below.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Switcher&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/FPS-Counter">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Scene-Reference">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Reference&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jason-Skillman/Comment-Component">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Comment-Component&theme=tokyonight" />
+  
+<a href="https://github.com/Jason-Skillman/FPS-Counter">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
 </a>
-
 <br>
 
 ## 📊 Stats
