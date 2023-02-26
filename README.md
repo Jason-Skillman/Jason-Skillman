@@ -90,19 +90,19 @@ I work on custom universal tools for Unity. Check them out below.
 <a href="https://github.com/Jason-Skillman/Comment-Component">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Comment-Component&theme=tokyonight" />
   
-<a href="https://github.com/Jason-Skillman/FPS-Counter">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
-</a>
-  
 <a href="https://github.com/Jason-Skillman/Scriptable-Tags">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scriptable-Tags&theme=tokyonight" />
+</a>
+  
+<a href="https://github.com/Jason-Skillman/FPS-Counter">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
 </a>
 <br>
 
 ## 📊 Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-Skillman&&show_icons=true&theme=tokyonight">
 
-<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Skillman&layout=compact&hide=shaderlab&langs_count=7&theme=tokyonight" />
+<img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Skillman&layout=compact&hide=shaderlab,css&langs_count=8&theme=tokyonight" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 
