@@ -59,8 +59,8 @@ I work on custom universal tools for Unity. Check them out below.
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scriptable-Events&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/Scene-Fader-Manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Fader-Manager&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Async-Addressables-Manager">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Async-Addressables-Manager&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Jason-Skillman/State-Machine-Callback">
@@ -96,6 +96,10 @@ I work on custom universal tools for Unity. Check them out below.
   
 <a href="https://github.com/Jason-Skillman/FPS-Counter">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Jason-Skillman/Scene-Fader-Manager">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Fader-Manager&theme=tokyonight" />
 </a>
 <br>
 
