@@ -1,26 +1,20 @@
 [![jason_skillman_banner](assets/controller_banner_wide.png)](https://jasonskillman.wixsite.com/website)
 
 ### Hi there, I am Jason Skillman - @Jason-Skillman
-## 🎮 Game Programmer | VR Developer | Technical Designer
+## 🎮 Game Programmer | 🕶️ VR Developer | 🖌️ Technical Artest
 
 Welcome to my profile page 👏
 
-- 🔭 I’m currently working on a full body VR experience game.
-- 🌱 I’m currently learning about OpenGL with C++.
-- 👯 I’m looking to collaborate on any Unity open source project.
+- 🔭 I’m currently working on a free roam full body VR experience at our LBE location. (The Edge VR)
+- 🌱 I’m currently furthering my education in Unreal C++ and compute shaders.
 - 💬 Ask me about my favorite game and why. 🚀
 - 📫 How to reach me: https://www.linkedin.com/in/jason-skillman/
 - ⚡ Fun fact: The UDK was my first game engine and I have been programming since 2014.
 
 ### Favorite Launguages
-<img align="left" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
 <img align="left" alt="C#" title="C#" width="30px" src="assets/launguages/c_sharp.png"/>
 <img align="left" alt="C++" title="C++" width="30px" src="assets/launguages/c_plus_plus.png"/>
-<img align="left" alt="SQLite" title="SQLite" width="30px" src="assets/launguages/sqlite.png"/>
-<img align="left" salt="HTML5" title="HTML5" width="30px" src="assets/launguages/html5.png"/>
-<img align="left" alt="Javascript" title="Javascript" width="30px" src="assets/launguages/javascript.png" />
-<img align="left" alt="Python" title="Python" width="30px" src="assets/launguages/python.png"/>
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" src="assets/launguages/kotlin.png"/>
+<img align="left" alt="Java" title="Java" width="30px" src="assets/launguages/java.png"/>
 <br>
 
 ### Favorite Tools
@@ -32,16 +26,12 @@ Welcome to my profile page 👏
 <img align="left" alt="Android Studio" title="Android Studio" width="30px" src="assets/tools/android_studio.png"/>
 <img align="left" alt="Git" title="Git" width="30px" src="assets/tools/git.png"/>
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="assets/tools/github.svg"/>
-<img align="left" alt="Maya" title="Maya" width="30px" src="assets/tools/maya.png"/>
-<img align="left" alt="3dsmax" title="3dsmax" width="30px" src="assets/tools/3dsmax.png"/>
 <img align="left" alt="Blender" title="Blender" width="30px" src="assets/tools/blender.png"/>
-<img align="left" alt="Substance Painter" title="Substance Painter" width="30px" src="assets/tools/substance_painter.png"/>
 <img align="left" alt="Photoshop" title="Photoshop" width="30px" src="assets/tools/photoshop.png"/>
-<img align="left" alt="Illustractor" title="Illustractor" width="30px" src="assets/tools/illustrator.png"/>
 <br>
 
 ### Social Media / Contact Me
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=hack-the-box&logoColor=white&color=00b327)](https://jasonskillman.wixsite.com/website)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=hack-the-box&logoColor=white&color=00b327)]([https://jasonskillman.wixsite.com/website](https://jason-skillman.github.io/))
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jason-skillman/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-Profile-informational?style=flat&logo=itch.io&logoColor=white&color=ff3366)](https://jason_skillman.itch.io/)
 <br>
@@ -53,54 +43,36 @@ Welcome to my profile page 👏
 -->
 
 ## <img alt="Unity" title="Unity" width="20px" src="assets/tools/unity.png"/> Unity Packages
-I work on custom universal tools for Unity. Check them out below.
+I work on tools and packages for Unity. Check them out below.
 
-<a href="https://github.com/Jason-Skillman/Scriptable-Events">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scriptable-Events&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Unity-Async-Addressables-Manager">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Async-Addressables-Manager&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/Async-Addressables-Manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Async-Addressables-Manager&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Unity-Scriptable-Events">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Scriptable-Events&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/State-Machine-Callback">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=State-Machine-Callback&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Unity-Singleton">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Singleton-Behavior&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Dialogue-Manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Dialogue-Manager&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Audio-Pool-Manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Audio-Pool-Manager&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Scene-Switcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Switcher&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Scene-Reference">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Reference&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Jason-Skillman/Comment-Component">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Comment-Component&theme=tokyonight" />
-  
-<a href="https://github.com/Jason-Skillman/Scriptable-Tags">
+<a href="https://github.com/Jason-Skillman/Unity-Scriptable-Tags">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scriptable-Tags&theme=tokyonight" />
 </a>
-  
-<a href="https://github.com/Jason-Skillman/FPS-Counter">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=FPS-Counter&theme=tokyonight" />
+
+<a href="https://github.com/Jason-Skillman/Unity-Scene-Reference">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Scene-Reference&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Jason-Skillman/Scene-Fader-Manager">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Scene-Fader-Manager&theme=tokyonight" />
+<a href="https://github.com/Jason-Skillman/Unity-Singleton-Behavior">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Singleton-Behavior&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/Jason-Skillman/Unity-Voxel-Engine-Tutorial">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Voxel-Engine-Tutorial&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Jason-Skillman/Unity-Design-Patterns">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Skillman&repo=Unity-Design-Patterns&theme=tokyonight" />
+</a>
+
 <br>
 
 ## 📊 Stats
