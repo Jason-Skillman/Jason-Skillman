@@ -31,7 +31,7 @@ Welcome to my profile page 👏
 <br>
 
 ### Social Media / Contact Me
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=hack-the-box&logoColor=white&color=00b327)]([https://jason-skillman.github.io/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=hack-the-box&logoColor=white&color=00b327)](https://jason-skillman.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jason-skillman/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch.io-Profile-informational?style=flat&logo=itch.io&logoColor=white&color=ff3366)](https://jason_skillman.itch.io/)
 <br>
